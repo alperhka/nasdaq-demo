@@ -112,7 +112,7 @@ MT5_CONFIG = {
     "SERVER":   None,         # str:  FundingPips MT5 Server (z.B. "FundingPips-Server")
 
     # Symbol-Konfiguration (NAS100 / US100 / USTEC - je nach Broker)
-    "SYMBOL":           "US100",    # Exakter MT5 Symbol-Name (auf FundingPips verifizieren!)
+    "SYMBOL":           "USTEC",    # Exakter MT5 Symbol-Name (auf FundingPips verifizieren!)
     "MAGIC_NUMBER":     202402,     # Eindeutige Magic Number fuer diesen Bot (verhindert Konflikte)
     "COMMENT_PREFIX":   "ICT_BOT",  # Order-Kommentar-Praefix fuer MT5
 
