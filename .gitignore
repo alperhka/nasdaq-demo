@@ -1,0 +1,29 @@
+# Zugangsdaten & Passwoerter (NIEMALS HOCHLADEN!)
+.env
+*.env
+config_local.py
+
+# Python Cache & Virtuelle Umgebungen
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+
+# Bot-Zustand, Logs & Caches
+logs/
+state/
+cache/
+results/
+*.log
+*.jsonl
+
+# ZIP & Packdateien
+*.zip
+*.tar.gz
+
+# macOS Systemdateien
+.DS_Store
+.AppleDouble
+.LSOverride
